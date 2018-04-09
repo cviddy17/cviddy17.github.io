@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Chad Valencia, Data Scientist
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently a Freelance Data Scientist and Python Developer working out of New York, NY. Or Los Angeles. Or Las Vegas. Currently I'm looking for opportunities in NY, LA, and Austin, TX.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[chadvalencia@gmail.com](mailto:chadvalencia@gmail.com)
