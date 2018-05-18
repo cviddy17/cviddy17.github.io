@@ -17,7 +17,7 @@ This repo is a preliminary exploratory analysis of Starcraft II earnings, couple
 
 ### More Information
 
-I am currently a Freelance Data Scientist and Python Developer working out of New York, NY. Or Los Angeles. Or Las Vegas. Currently I'm looking for opportunities in NY, LA, and Austin, TX.
+I am currently a Freelance Data Scientist and Python Developer working out of New York, NY. Currently I'm looking for opportunities all across the United States.
 
 ### Contact me
 
